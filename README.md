@@ -1,2 +1,2 @@
 # Arkose's Surprise
-Let Arkose throw a rock at you.
+Arkose's rocks pack a bit of a punch, eh?
