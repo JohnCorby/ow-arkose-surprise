@@ -39,7 +39,6 @@ public class ArkoseSurprise : ModBehaviour
 	private static void Crash()
 	{
 		Instance.ModHelper.Console.WriteLine("crash");
-		return;
 
 		int isCritical = 1; // we want this to be a Critical Process
 		int BreakOnTermination = 0x1D; // value for BreakOnTermination (flag)
