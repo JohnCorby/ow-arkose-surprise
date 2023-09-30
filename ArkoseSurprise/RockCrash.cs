@@ -7,9 +7,10 @@ namespace ArkoseSurprise;
 
 public class RockCrash : MonoBehaviour
 {
-	private void OnTriggerEnter(Collider other)
+	private void OnCollisionEnter(Collision other)
 	{
-		if (other.attachedRigidbody.CompareTag("Player")) Crash();
+		ArkoseSurprise.Instance.ModHelper.Console.WriteLine($"hit {other}");
+		if (other.rigidbody.CompareTag("Player")) Crash();
 	}
 
 
