@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "ArkoseSurprise.dll",
+  "author": "JohnCorby",
+  "name": "ArkoseSurprise",
+  "uniqueName": "JohnCorby.ArkoseSurprise",
+  "version": "0.1.0",
+  "owmlVersion": "2.9.8",
+  "dependencies": []
+}
