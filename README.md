@@ -1,2 +1,2 @@
-# ow-arkose-surprise
- Arkose's rocks pack a bit of a punch, eh?
+# Arkose's Surprise
+Arkose's rocks pack a bit of a punch, eh?
